@@ -10,6 +10,7 @@
 
 ### 开源项目
 - [多数据源的后台框架](https://github.com/a-fat-k79/GloryAdmin)
+- [锐浪报表服务器，spring boot实现](https://github.com/a-fat-k79/k79-report-grid)
 
 ### 博客文章
 
