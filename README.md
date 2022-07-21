@@ -17,6 +17,7 @@
 ### 资源
 - [汉字字典，收录汉字2万+](https://github.com/a-fat-k79/k79-dict#%E4%B8%AD%E6%96%87%E5%AD%97%E5%85%B8%E5%BA%93) 
 - [诗经305首](https://github.com/a-fat-k79/k79-dict#%E8%AF%97%E7%BB%8F%E5%BA%93)
+- [名字25万](https://github.com/a-fat-k79/k79-dict#%E5%A7%93%E5%90%8D%E5%BA%93)
 
 ### 关于我
 
