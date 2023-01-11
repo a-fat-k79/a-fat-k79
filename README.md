@@ -12,7 +12,8 @@
 - [多数据源的后台框架](https://github.com/a-fat-k79/GloryAdmin)
 - [锐浪报表服务器，spring boot实现](https://github.com/a-fat-k79/k79-report-grid)
 
-### 博客文章
+### 精品软件
+- [宝宝起名。 三才五格起名法，体现名字美学。 八字起名法，体现生辰相生相克。](https://github.com/a-fat-k79/k79-baby-name)
 
 ### 资源
 - [汉字字典，收录汉字2万+](https://github.com/a-fat-k79/k79-dict#%E4%B8%AD%E6%96%87%E5%AD%97%E5%85%B8%E5%BA%93) 
